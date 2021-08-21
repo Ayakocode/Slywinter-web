@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Atlanta" src="https://bit.ly/3xvtERK">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Slywinter" src="https://cdn.discordapp.com/avatars/872415864501194752/0b163d177cdd304020e8d4fb21a66491.png?size=256">  
 
 # Slywinter
 
