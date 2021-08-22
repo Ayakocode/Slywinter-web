@@ -140,6 +140,7 @@ a:hover {
 }
 
 a {
+  float: right;
   color: var(--main-color);
 }
 
