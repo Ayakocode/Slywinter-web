@@ -21,9 +21,6 @@
   background: var(--main-color);
 }
 
-.nav-link {
-  float: right;
-}
 .footer-dark {
   padding: 50px 0;
 }
