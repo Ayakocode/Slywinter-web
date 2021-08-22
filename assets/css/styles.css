@@ -131,6 +131,7 @@
 
 a:hover {
   text-decoration: none;
+  float: right;
   color: var(--main-color);
 }
 
