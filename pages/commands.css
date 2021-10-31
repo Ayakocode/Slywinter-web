@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 
 html, body {
-	background-image: url("https://i.pinimg.com/originals/67/0b/c0/670bc0f15088200dc7bd31ff37daa245.gif");
+    background-image: url("../public/img/Background.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
