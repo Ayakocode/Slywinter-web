@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&family=Roboto&display=swap');
 
 html, body {
-	background-image: url("../img/Background.jpg");
+    background-image: url("../img/Background.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
