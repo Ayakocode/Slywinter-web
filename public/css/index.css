@@ -327,8 +327,8 @@ a.activate:hover {
     width: 50px;
     height: 50px;
     text-align: left;
-    border-radius: 5vh;
-    margin-top: -3vh;
+    border-radius: 5px;
+    margin-top: -3px;
 }
 
 .copyright {
