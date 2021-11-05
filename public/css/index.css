@@ -342,7 +342,7 @@ a.activate:hover {
    color: blue;
    font-family: 'Roboto', sans-serif;
    padding: 10px 60px;
-   background: linear-gradient(blue, 25%, rgb(236, 69, 69));
+   background: blue;
    font-size: 3vh;
    border-radius: 4vh;
    transition: all .5s ease-in-out;
