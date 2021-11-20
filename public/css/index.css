@@ -543,4 +543,7 @@ a.activate:hover {
     .burger_nav_toggle {
         display: flex;
     }
+    .m-title-left {
+    fon-size: 12px;
+  }
 }
