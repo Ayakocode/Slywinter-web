@@ -127,7 +127,7 @@
 
 .burger_nav_toggle span {
     width: 100%;
-    height: 6px; 
+    height: 4px; 
     background-color: #fff;
     border-radius: 10px;
     display: block;
@@ -141,7 +141,7 @@
     content: "";
     position: absolute;
     width: 100%;
-    height: 6px;
+    height: 4px;
     background-color: #fff;
     border-radius: 10px;
     transition: transform 1s ease-in-out;
