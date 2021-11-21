@@ -534,7 +534,10 @@ a.activate:hover {
     }
     .m-title-link {
         display: block;
+        content: "";
         text-align: center;
+        align-items: center;
+        position: relative;
         padding: 0;margin: 0 20px;
         height: 55px;
         width: 200px;
