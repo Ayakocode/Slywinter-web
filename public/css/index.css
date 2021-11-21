@@ -116,12 +116,12 @@
 
 .burger_nav_toggle {
     width: 42px;
-    height: 66px;
+    height: 70px;
 
     display: none;
     float: right;
     cursor: pointer;
-	align-items: center;
+    align-items: center;
     position: relative;
 }
 
