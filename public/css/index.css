@@ -530,7 +530,7 @@ a.activate:hover {
         height: auto;
         background-color: #1e1f22;
         transform: translateY(-100%);
-        transition: all 0.3s ease-in-out;
+        transition: all 1s ease-in-out;
     }
     .m-title-link {
         display: block;
@@ -539,6 +539,7 @@ a.activate:hover {
         height: 55px;
         width: 200px;
         margin: auto;
+        margin-bottom: 12px;
     }
     .burger_nav_toggle {
         display: flex;
