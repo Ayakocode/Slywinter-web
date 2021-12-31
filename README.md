@@ -6,4 +6,4 @@
 [![](https://discordbots.org/api/widget/status/557445719892688897.svg)](https://top.gg/bot/872415864501194752)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 
-## bienvenue sur mon github
+## bienvenue sur mon github je m'appelle Slywinter je suis un bot multi-fonction
