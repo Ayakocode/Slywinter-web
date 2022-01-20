@@ -215,6 +215,7 @@
 a.activate,
 a:hover {
 	background-color: #1d1d1e;
+        margin: auto;
 	border-radius: 5px;
 }
 
