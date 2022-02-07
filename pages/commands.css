@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+html, body {
+    background-image: url("../public/img/Background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;padding: 0;
+	font-family: 'Poppins', sans-serif;
+}
+.inner {
+	width: 90%;
+	margin: auto;
+}
+
